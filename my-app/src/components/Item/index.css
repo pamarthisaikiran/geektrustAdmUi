@@ -1,0 +1,13 @@
+.item-li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.del-btn{
+    display: flex;
+}
+.btn-del{
+    background-color: transparent;
+    border: none;
+}

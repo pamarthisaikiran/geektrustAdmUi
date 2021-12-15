@@ -1,0 +1,19 @@
+.butPag{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-right:20px ;
+    color:#ffffff
+    
+}
+.butPag:hover{
+    background-color: tomato;
+}
+.btn-bg-Pag{
+    background-color: blue;
+    border: none;
+}
+.buttonPag{
+    background-color: #ffffff;
+    border: 1px solid blue;
+}
